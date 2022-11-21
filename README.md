@@ -1,2 +1,2 @@
-Congratulations i creat My first readme
+its My first readme
 
